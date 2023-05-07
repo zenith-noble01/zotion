@@ -1,0 +1,23 @@
+{
+  "name": "zotion",
+  "version": "1.1.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "framer-motion",
+    "react",
+    "react animation",
+    "pose",
+    "animation",
+    "gesture",
+    "drag",
+    "spring",
+    "framer",
+    "waapi"
+  ],
+  "author": "zenithnoble01",
+  "license": "ISC"
+}
